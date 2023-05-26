@@ -1,0 +1,8 @@
+composer create-project laravel/laravel coalitiontechnologies
+php artisan make:migration create_tasks_table
+php artisan make:model Task
+composer require livewire/livewire
+php artisan make:livewire tasks
+composer require doctrine/dbal 
+at web page
+<script src="https://cdn.jsdelivr.net/gh/livewire/sortable@v0.x.x/dist/livewire-sortable.js"></script>
