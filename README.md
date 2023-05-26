@@ -12,3 +12,6 @@ $ composer install
 ### Migrate Database
 ```bash
 $ php artisan migrate --seed
+
+Requirement 
+php >= 8.1
