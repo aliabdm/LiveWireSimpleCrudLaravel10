@@ -15,3 +15,4 @@ $ php artisan migrate --seed
 
 Requirement 
 php >= 8.1
+### note: the seeder is dynamic you will not have to fresh your database
