@@ -1,5 +1,5 @@
 # LiveWireSimpleCrudLaravel10
-A simple Laravel 10 liverwire CRUD with reorder table to show livewire power
+A simple Laravel 10 liverwire CRUD with reorder table to show livewires power
 ### Create your .env File
 ### set your dataBase credentials
 ### example 
