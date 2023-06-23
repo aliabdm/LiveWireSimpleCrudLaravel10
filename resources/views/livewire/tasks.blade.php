@@ -15,7 +15,7 @@
     <table class="table table-bordered mt-5">
         <thead>
             <tr>
-                <th>No.</th>
+                <th>#</th>
                 <th>name</th>
                 <th width="150px">Action</th>
             </tr>
